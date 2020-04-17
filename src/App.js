@@ -233,7 +233,7 @@ export default class App extends Component {
           <ForkMe url='https://github.com/netlify-labs/oauth-example' />
           <h1>Netlify Site Search</h1>
           <button onClick={this.handleAuth} >
-            <img alt='login to netlify' className='login-button' src={loginButton} />
+            <img alt='Sign-in netlify test' className='login-button' src={loginButton} />
           </button>
         </div>
       )
